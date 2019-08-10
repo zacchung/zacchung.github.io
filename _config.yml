@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
+title: 凌岳
 subtitle:
 description:
 author: John Doe
@@ -233,7 +233,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-#avatar:
+avatar:https://onecode.gitee.io/me/images/avatar.png
 
 
 # Table Of Contents in the Sidebar
